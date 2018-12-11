@@ -1,0 +1,4 @@
+#Tue Dec 11 09:50:42 EET 2018
+base.0=C\:\\Users\\Olya\\Desktop\\NotificationScheduler\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
